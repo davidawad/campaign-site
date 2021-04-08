@@ -308,7 +308,6 @@ body {
 }
 
 .source-paragraph {
-  color: #f1f1f1;
   font-size: 12px;
   font-weight: 400;
   text-align: left;
@@ -764,6 +763,10 @@ body {
   color: #fff7c8;
   text-decoration: none !important;
   /* display: none; */
+}
+
+.bright-text {
+  color: #f1f1f1;
 }
 
 .fadeIn {
