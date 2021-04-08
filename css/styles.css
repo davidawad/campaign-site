@@ -763,7 +763,7 @@ body {
 .highlight-link {
   color: #fff7c8;
   text-decoration: none !important;
-  display: none;
+  /* display: none; */
 }
 
 .fadeIn {
